@@ -1,0 +1,2 @@
+we maintain two stacks for copying the values after doing the backspace for # 
+and then we pop out the two stacks and check for equal values

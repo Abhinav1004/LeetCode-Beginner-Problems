@@ -1,0 +1,4 @@
+we use a stack for storing the linked list values 
+on first iteration i stored the values of the linked list into stack
+on second iteration i traversed the whole linked list and checked if the value matched properly 
+and returned the corresponding result

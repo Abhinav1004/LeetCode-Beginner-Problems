@@ -1,0 +1,3 @@
+first we find the maximum candy value in the list
+and then if the current value+value given is greater than or equal to the 
+maximum candy then append true else append false to the resulting list

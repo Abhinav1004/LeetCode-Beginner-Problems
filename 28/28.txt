@@ -1,0 +1,3 @@
+We iterate through both the list and increment include the node in the final list
+which has smaller value and increment the node pointer
+at last we append the left out node if any at the end

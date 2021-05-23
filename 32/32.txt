@@ -1,0 +1,5 @@
+Use an auxillary stack in order to provide FIFO functionality using two stacks. 
+Whenever a new element is to be pushed onto the "queue", first pop off all elements from the 
+stack (stk) and push them the aux. Then push onto the empty stk the new element to be added in 
+the "queue", so this new element will be the last element "dequeued" from pop() off the stack after 
+the remaining items from aux and placed back onto stk on top of this new element.

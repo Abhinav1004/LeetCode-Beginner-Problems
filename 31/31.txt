@@ -1,0 +1,2 @@
+we iterate through the vector and store the number elements into the stack 
+and then apply the rules as asked in question to further modify the vector

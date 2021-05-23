@@ -1,0 +1,3 @@
+we run two loops where j is inside the outer loop i in which j is always lesser than i 
+then we compare for the values of nums[i] and nums[j] and count when these two values become
+equal and return the count value

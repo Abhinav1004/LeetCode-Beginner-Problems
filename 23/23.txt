@@ -1,0 +1,4 @@
+we iterate through the size of the nums array and insert the value at index 
+at position index[i] in the target array if the current iterator i value is equal to the index[i]
+value else we iterate backward and shift all the elements till the position and insert the value 
+of the nums[i] at the index[i] position being vacant after shifting the elements

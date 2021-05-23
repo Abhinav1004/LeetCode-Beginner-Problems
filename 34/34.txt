@@ -1,0 +1,2 @@
+i store the elements of starting braces in the stack and then pop out the elements for the closing braces
+and then check if the top element of the stack is same as that of the current string element

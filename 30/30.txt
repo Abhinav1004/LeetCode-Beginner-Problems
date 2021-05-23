@@ -1,0 +1,6 @@
+while(current_node exits){
+            nextNode = current->next;   //store nextNode position to be used for moving current Node
+            current->next = prev;       //backward linkage of the node for reversing the list
+            prev = current;             //updating the previous value for reversing
+            current = nextNode;         //updating the current node to next Node
+        }

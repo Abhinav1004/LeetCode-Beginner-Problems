@@ -1,0 +1,4 @@
+we need to iterate from the end of the linked list provide therefore i store the elements of the list 
+in a vector and then reverse the vector to obtain the linked list in proper order of binary digit
+I iterate over the vector containing the binary digit and on every increment i increase power of multiplier 
+2**x by one as while calculating decimal number from binary digit

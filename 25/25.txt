@@ -1,0 +1,3 @@
+we iterate over the rows of the image 2d vector
+and then swap starting columns values with ending column values in order to flip image horizontally
+then we negate the elements by iterating over all the columns for each row
