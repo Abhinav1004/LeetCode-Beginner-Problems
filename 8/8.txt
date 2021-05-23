@@ -1,0 +1,2 @@
+We add space prior to first word  in the sentence and then count the occurrence of target word in sentence
+We then count the number of spaces prior to the word index returned which gives the word position

@@ -1,0 +1,2 @@
+For every substring of the target word of the product we find the list of matching products and then 
+sort the list generated lexicographically and then truncate the list to three elements

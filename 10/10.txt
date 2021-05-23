@@ -1,0 +1,3 @@
+first occurence is got by iterating from start position and 
+last occurence is got from iterating from the last position 
+Both are then pushed into a vector and returned

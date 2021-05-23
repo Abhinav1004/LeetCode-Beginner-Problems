@@ -1,0 +1,2 @@
+We run an iterator from start and end and swap the element if the start value encountered is odd with the 
+end element.

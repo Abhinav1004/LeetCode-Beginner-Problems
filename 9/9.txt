@@ -1,0 +1,1 @@
+We run a iterator and if the target value matches the iterator value then the index is returned

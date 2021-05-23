@@ -1,0 +1,2 @@
+First the target value is compared for last element value of every row 
+if it is less than the last element then only we traverse through that row else move to the next row

@@ -1,0 +1,2 @@
+we find the square of every number in the array and then sort the squared array and return the array
+

@@ -1,0 +1,3 @@
+We use the hashmap for storing the frequency of elements of array and then the map is sorted on the basis 
+of frequency value 
+and the elements are pushed into vector number of times they had occurred in the final vector

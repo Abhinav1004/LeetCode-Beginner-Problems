@@ -1,0 +1,3 @@
+The code is implemented on the basis of observation that kth symbol in grammar
+is if having n length then last n/2 characters are complement of first n/2 characters
+Also handled the base cases according to question

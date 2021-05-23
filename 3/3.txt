@@ -1,0 +1,2 @@
+Using STL reverse function which reverses the string input 
+which works on iterating through the last character and swapping the beginning iterator value with last iterator value

@@ -1,0 +1,2 @@
+We use the hashmap for storing the occurrence order of another array and then accordingly the index position 
+if smaller is pushed into the final array thus obtained

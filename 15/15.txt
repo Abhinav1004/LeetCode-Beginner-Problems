@@ -1,0 +1,2 @@
+We iterate through every column obtained and check for lexicographic sorting order 
+if it is violated then we increment count value

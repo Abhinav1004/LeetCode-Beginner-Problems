@@ -1,0 +1,3 @@
+the base case value are entered as in pascal number
+for other cases the current value =  SUm(Last(i)+Last(i+1))
+

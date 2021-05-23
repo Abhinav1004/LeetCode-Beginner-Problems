@@ -1,0 +1,1 @@
+We run an iterator on both the strings and concatenate the character alternately into the final string obtained

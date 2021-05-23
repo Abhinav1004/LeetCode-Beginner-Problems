@@ -1,0 +1,1 @@
+we merge the elements of array two into first and then sort the first array

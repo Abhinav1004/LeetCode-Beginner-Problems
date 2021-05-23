@@ -1,0 +1,2 @@
+We run an iterator which stops if the encountered value is greater than or equal to the target 
+number and the iterator index position is returned

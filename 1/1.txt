@@ -1,0 +1,4 @@
+On every recursive call the sum of the digit is calculated 
+till the base condition where the sum of digit is a single digit number
+The sum of digit is calculated using extracting the last digit of the number got by finding remainder when divided by 10 
+and then reducing the number by dividing by 10
